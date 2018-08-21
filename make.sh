@@ -1,0 +1,7 @@
+cmake .
+
+make
+
+./main
+
+
