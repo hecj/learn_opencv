@@ -1,3 +1,0 @@
-/Users/hecj/eclipse/cpp/demo1/opencv1/src/CMakeFiles/edit_cache.dir
-/Users/hecj/eclipse/cpp/demo1/opencv1/src/CMakeFiles/rebuild_cache.dir
-/Users/hecj/eclipse/cpp/demo1/opencv1/src/CMakeFiles/main.dir
